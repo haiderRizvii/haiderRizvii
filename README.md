@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Haider RIzvi
+- 👋 Hi, I’m Haider Rizvi
 - 👀 I’m interested in Cricket 
-- 🌱 I’m currently ruby on rails and react js
-- 💞️ I’m looking to collaborate on ruby on rails
-- 📫 How to reach me sha.rizvi993@gmail.com
+- 🌱 I’m currently learning Ruby on Rails and React JS
+- 💞️ I’m looking to collaborate on "Ruby on Rails"
+- 📫 How to reach me "sha.rizvi993@gmail.com" or "https://www.linkedin.com/in/haider-rizvi-4868a51a3/"
 
 <!---
 haiderDevsinc/haiderDevsinc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
