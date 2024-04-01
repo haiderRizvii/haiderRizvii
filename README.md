@@ -1,4 +1,4 @@
-<a href="https://github.com/haiderRizvii"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=saqibama&style=flat-square" width="125"/></a>
+<a href="https://github.com/haiderRizvii"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=haiderRizvii&style=for-the-badge&abbreviated=true" width="125"/></a>
 
 - 👋 Hi, I’m Haider Rizvi
 - 👀 I’m interested in Cricket 
