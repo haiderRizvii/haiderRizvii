@@ -1,3 +1,5 @@
+<a href="https://github.com/sajawal007"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=saqibama&style=flat-square" width="125"/></a>
+
 - 👋 Hi, I’m Haider Rizvi
 - 👀 I’m interested in Cricket 
 - 🌱 I’m currently learning Ruby on Rails and React JS
